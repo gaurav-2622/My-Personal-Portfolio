@@ -61,11 +61,11 @@ export default function Hero() {
 
       <div className="container max-w-4xl text-center">
         <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold tracking-tight mb-6 animate-in">
-          Hi, I'm <span className="text-primary">Maneesh Kumar</span>
+          Hi, I'm <span className="text-primary">Gaurav</span>
         </h1>
 
         <p className="text-xl md:text-2xl text-muted-foreground mb-8 animate-in">
-          Full Stack Developer & UI/UX Designer
+            Software Developer | Backend (Spring Boot)
         </p>
 
         <div className="flex flex-col sm:flex-row gap-4 justify-center animate-in">
@@ -74,7 +74,7 @@ export default function Hero() {
           </Button>
 
           <a 
-            href="\Maneesh_Kumar_Resume_Updated_07.pdf" 
+            href="\GauravKumarSingh.pdf" 
             download 
             target="_blank" 
             rel="noopener noreferrer"

@@ -6,34 +6,24 @@ const skills = [
   {
     category: "Programming Skills",
     icon: <Smartphone className="h-8 w-8 mb-4 text-primary" />,
-    items: ["C/C++", "Java", "Python", "SQL", "DSA", "Problem Solving"],
+    items: ["Java","C/C++", "Kotlin", "Python", "SQL"],
   },
 
   {
-    category: "Frontend",
-    icon: <Layout className="h-8 w-8 mb-4 text-primary" />,
-    items: ["HTML/CSS", "JavaScript", "React", "Next.js", "Tailwind CSS"],
-  },
-  {
     category: "Backend",
     icon: <Server className="h-8 w-8 mb-4 text-primary" />,
-    items: ["Node.js", "Express.js", "Python", "Fast APIs", "RESTful APIs"],
+    items: ["Spring Boot", "RESTful APIs", "SOAP Web Services", "Postman", ],
   },
   {
     category: "Database",
     icon: <Database className="h-8 w-8 mb-4 text-primary" />,
-    items: ["MongoDB", "PostgreSQL", "MySQL"],
-  },
-  {
-    category: "Design",
-    icon: <Palette className="h-8 w-8 mb-4 text-primary" />,
-    items: ["UI/UX", "Responsive Design", "Wireframing"],
+    items: ["MongoDB", "MySQL"],
   },
   
   {
     category: "Other",
     icon: <Code className="h-8 w-8 mb-4 text-primary" />,
-    items: ["Git", "Docker", "CI/CD", "AWS", "Vercel", "AI/ML"],
+    items: ["Git", "Android Studio", "AWS", "BluePrism", "AI/ML","Linux"],
   },
 ]
 

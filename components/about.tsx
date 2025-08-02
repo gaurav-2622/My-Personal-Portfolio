@@ -15,7 +15,7 @@ export default function About() {
             <div className="relative animate-in">
               <div className="relative aspect-square overflow-hidden rounded-lg">
                 <Image
-                  src="https://avatars.githubusercontent.com/u/149099977?v=4"
+                  src="https://avatars.githubusercontent.com/u/129983452?v=4"
                   alt="Profile"
                   width={600}
                   height={600}
@@ -28,32 +28,30 @@ export default function About() {
             </div>
 
             <div className="animate-in">
-              <h3 className="text-2xl font-semibold mb-4">Full Stack Developer & UI/UX Designer</h3>
+              <h3 className="text-2xl font-semibold mb-4">Backend Engineer | Spring Boot </h3>
               <p className="text-lg text-muted-foreground mb-6">
-                I’m a passionate full-stack developer, competitive programmer, 
-                and machine learning enthusiast, currently pursuing my BTech 
-                in Information Technology from the Indian Institute of Information Technology,
-                 Sonepat. I love solving complex problems through Data Structures and Algorithms and
-                  have solved over 600+ DSA problems across platforms like 
-                  LeetCode and GeeksforGeeks. 
+                Hi everyone! I’m Gaurav Kumar Singh, currently pursuing my B.Tech in Computer 
+                Science & Engineering at IIIT Sonepat, with a CGPA of 8.1. I’m originally from 
+                Aurangabad, Bihar. I completed my 10th education from DAV Public School, Ratwar Mohania, 
+                with 94%, and my 12th from Mount Litera Zee School, Varanasi, with 93.6%.
                   
               </p>
               <p className="text-lg text-muted-foreground mb-6">
-                I enjoy building scalable web applications that combine clean design with 
-                  efficient back-end systems, while also exploring machine learning to create data-driven
-                    solutions. I’m a lifelong learner, driven by curiosity and teamwork,
-                    always eager to grow, innovate, and contribute to impactful projects in the software
-                      world.
+                I’m a Java backend developer and competitive programmer with a strong foundation 
+                in Data Structures and Algorithms, having solved over 400+ problems across LeetCode 
+                and GeeksforGeeks. I enjoy building scalable backend systems using Java, Spring Boot, 
+                and MongoDB. I’m a curious and team-oriented learner, always striving to grow, innovate, 
+                and contribute to meaningful software projects.
               </p>
 
               <div className="text-lg grid grid-cols-2 gap-4">
                 <div>
                   <p className="font-medium">Name:</p>
-                  <p className="text-muted-foreground">Maneesh Kumar</p>
+                  <p className="text-muted-foreground">Gaurav Kumar Singh</p>
                 </div>
                 <div>
                   <p className="font-medium">Email:</p>
-                  <p className="text-muted-foreground">connect.to.maneeshmkp@gmail.com</p>
+                  <p className="text-muted-foreground">myselfgaurav2527@gmail.com</p>
                 </div>
                 <div>
                   <p className="font-medium">Location:</p>
@@ -61,7 +59,7 @@ export default function About() {
                 </div>
                 <div>
                   <p className="font-medium">Availability:</p>
-                  <p className="text-muted-foreground">Available for hire</p>
+                  <p className="text-muted-foreground">Immediately</p>
                 </div>
               </div>
             </div>

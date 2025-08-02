@@ -169,17 +169,17 @@ interface WorkExperience {
 const experiences: WorkExperience[] = [
   { 
     id: 1,
-    title: "Software Engineer Intern",
-    company: "Internship Studio",
-    location: "Pune Maharashtra",
-    period: "Mar 2024 - Apr 2024",
+    title: "Advanced App Engineer Analyst",
+    company: "Accenture",
+    location: "Gurugram, Haryana",
+    period: "02 June 2025 - 26 July 2025",
     achievements: [
-      "Applied advanced C++ algorithms, improving code efficiency and execution speed by 40% for complex tasks.",
-      "Developed an interactive console interface for the Employee Management System using C++, reducing the record retrieval time by 80% (from 10+ seconds to less than 2 seconds).",
-      "Engineered a file handling architecture that seamlessly managed 1,000+ employee records, improving data processing efficiency by 60% while ensuring secure access controls 100%.",
+      "Worked on integrating ServiceNow with BMC Remedy using SOAP web services in a Spring Boot-based ISA application, ensuring smooth data flow aligned with AMI standards.",
+      "Assisted in post-deployment monitoring and troubleshooting using tools like NNMI, DNAC, Jenkins, and Remedy, contributing to faster issue resolution.",
+      "Collaborated with cross-functional teams to handle service and change requests, improving the efficiency of L1/L2 escalation processes.",
     ],
-    skills: ["C++", "Algorithms", "Data Structures", "File Handling", "Console UI"],
-    logo: "/company_logo.jpg", // Added logo field for company image
+    skills: ["Java", "Spring Boot", "SOAP Web Services", "Cisco Networking"],
+    logo: "/company_logo.webp", // Added logo field for company image
   },
 ]
 

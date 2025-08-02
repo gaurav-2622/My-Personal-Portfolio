@@ -8,13 +8,13 @@ export default function Footer() {
         <div className="flex flex-col md:flex-row justify-between items-center">
           <div className="mb-4 md:mb-0">
             <p className="text-lg text-muted-foreground">
-              © {new Date().getFullYear()} Maneesh Kumar. All rights reserved.
+              © {new Date().getFullYear()} Gaurav Kumar Singh. All rights reserved.
             </p>
           </div>
 
           <div className="flex items-center space-x-4">
             <Link
-              href="https://github.com/maneeshmkp"
+              href="https://github.com/gaurav-2622"
               target="_blank"
               rel="noopener noreferrer"
               className="text-muted-foreground hover:text-primary transition-colors"
@@ -23,7 +23,7 @@ export default function Footer() {
               <Github className="h-5 w-5" />
             </Link>
             <Link
-              href="https://www.linkedin.com/in/maneeshmkp/"
+              href="https://www.linkedin.com/in/gaurav-kumar-singh-74724a25b/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-muted-foreground hover:text-primary transition-colors"
@@ -32,7 +32,7 @@ export default function Footer() {
               <Linkedin className="h-5 w-5" />
             </Link>
             <Link
-              href="https://x.com/ManeeshKum14044"
+              href="https://x.com/gaurav_2622"
               target="_blank"
               rel="noopener noreferrer"
               className="text-muted-foreground hover:text-primary transition-colors"
@@ -41,7 +41,7 @@ export default function Footer() {
               <Twitter className="h-5 w-5" />
             </Link>
             <Link
-             href="mailto:connect.to.maneeshmkp@gmail.com"
+             href="mailto:myselfgaurav2527@gmail.com"
               className="text-muted-foreground hover:text-primary transition-colors"
               aria-label="Email"
             >

@@ -28,12 +28,12 @@ interface CodingProfile {
 const profiles: CodingProfile[] = [
   {
     platform: "LeetCode",
-    username: "maneeshmkp",
-    profileUrl: "https://leetcode.com/u/maneeshmkp/",
+    username: "gauravydv",
+    profileUrl: "https://leetcode.com/u/gauravydv/",
     stats: [
-      { label: "Problems Solved", value: "550+" },
-      { label: "Contest Rating", value: "1503" },
-      { label: "Global Ranking", value: "Top 50%" },
+      { label: "Problems Solved", value: "350+" },
+      { label: "Contest Rating", value: "1491" },
+      { label: "Global Ranking", value: "Top 47.12%" },
     ],
     achievements: ["4058 Global Rank in Biweekly Contest 153", "100 Days Badge", "50 Days Badge", "Top SQL 50 Badge", "12 different types of Badges"],
     icon: <Code2 className="h-6 w-6" />,
@@ -46,11 +46,11 @@ const profiles: CodingProfile[] = [
   },
   {
     platform: "CodeChef",
-    username: "maneeshp",
-    profileUrl: "https://www.codechef.com/users/maneeshp",
+    username: "gaurav_ydv",
+    profileUrl: "https://www.codechef.com/users/gaurav_ydv",
     stats: [
-      { label: "Current Rating", value: "1453" },
-      { label: "Max Rating", value: "1453" },
+      { label: "Current Rating", value: "1207" },
+      { label: "Max Rating", value: "1207" },
       { label: "Global Rank", value: "2 Star" },
     ],
     achievements: ["244 Global Rank in Starters 174", "Contest Contender - Bronze Badge", "Problem Solver - Bronze Badge"],
@@ -64,11 +64,11 @@ const profiles: CodingProfile[] = [
   },
   {
     platform: "Codeforces",
-    username: "Maneeshmkp",
-    profileUrl: "https://codeforces.com/profile/Maneeshmkp",
+    username: "gaurav.ydv",
+    profileUrl: "https://codeforces.com/profile/gaurav.ydv",
     stats: [
-      { label: "Current Rating", value: "395" },
-      { label: "Max Rating", value: "395" },
+      { label: "Current Rating", value: "697" },
+      { label: "Max Rating", value: "697" },
       { label: "Rank", value: "newbie" },
     ],
     achievements: ["newbie", "Div 2 Participant", "Problem Setter"],
@@ -82,12 +82,11 @@ const profiles: CodingProfile[] = [
   },
   {
     platform: "GeeksforGeeks",
-    username: "maneeshmkp",
-    profileUrl: "https://www.geeksforgeeks.org/user/maneeshmkp/",
+    username: "gauravydv",
+    profileUrl: "https://www.geeksforgeeks.org/user/gauravydv/",
     stats: [
-      { label: "Coding Score", value: "450" },
-      { label: "Problems Solved", value: "150+" },
-      { label: "Contest-Rating", value: "1719" },
+      { label: "Coding Score", value: "94" },
+      { label: "Problems Solved", value: "52+" },
       { label: "Global Rank", value: "3 star" },
     ],
     achievements: ["Top Contributor", "Problem Setter"],
@@ -98,25 +97,7 @@ const profiles: CodingProfile[] = [
       text: "text-sm text-green-700 dark:text-green-300",
       accent: "bg-green-500 dark:bg-green-600",
     },
-  },
-  {
-    platform: "code360 by Coding Ninjas",
-    username: "Maneeshmkp38",
-    profileUrl: "https://www.naukri.com/code360/profile/Maneeshmkp38",
-    stats: [
-      { label: "Ninja Points", value: "2500" },
-      { label: "Problems Solved", value: "130+" },
-      { label: "Course Progress", value: "85%" },
-    ],
-    achievements: ["Expert at code360", "Ninja DSA Badges", "4 master, 12 Specialist and 22 Achiever Badges", "2 Guided Paths : OOPs in C++ & Java"],
-    icon: <Zap className="h-6 w-6" />,
-    colors: {
-      bg: "bg-gradient-to-br from-purple-50 to-pink-50 dark:from-purple-950/30 dark:to-pink-950/30",
-      border: "border-purple-200 dark:border-purple-800",
-      text: "text-sm text-purple-700 dark:text-purple-300",
-      accent: "bg-purple-500 dark:bg-purple-600",
-    },
-  },
+  }
 ]
 
 export default function CodingProfiles() {
@@ -205,11 +186,11 @@ export default function CodingProfiles() {
           {/* Overall Stats */}
           <div className="mt-16 grid grid-cols-2 md:grid-cols-4 gap-6">
             <div className="text-center p-6 rounded-lg bg-gradient-to-br from-indigo-50 to-blue-50 dark:from-indigo-950/30 dark:to-blue-950/30 border border-indigo-200 dark:border-indigo-800">
-              <div className="text-2xl md:text-3xl font-bold text-indigo-600 dark:text-indigo-400 mb-2">700+</div>
+              <div className="text-2xl md:text-3xl font-bold text-indigo-600 dark:text-indigo-400 mb-2">500+</div>
               <div className="text-base text-muted-foreground">Total Problems</div>
             </div>
             <div className="text-center p-6 rounded-lg bg-gradient-to-br from-emerald-50 to-green-50 dark:from-emerald-950/30 dark:to-green-950/30 border border-emerald-200 dark:border-emerald-800">
-              <div className="text-2xl md:text-3xl font-bold text-emerald-600 dark:text-emerald-400 mb-2">20+</div>
+              <div className="text-2xl md:text-3xl font-bold text-emerald-600 dark:text-emerald-400 mb-2">15+</div>
               <div className="text-base text-muted-foreground">Contests</div>
             </div>
             <div className="text-center p-6 rounded-lg bg-gradient-to-br from-rose-50 to-pink-50 dark:from-rose-950/30 dark:to-pink-950/30 border border-rose-200 dark:border-rose-800">

@@ -23,7 +23,7 @@ const testimonials: Testimonial[] = [
     company: "TechCorp",
     image: "/client1.jpg?height=100&width=100",
     quote:
-      "Maneesh is an exceptional developer with a keen eye for detail. His ability to solve complex problems quickly made our project a success. I would gladly work with him again on future projects.",
+      "Gaurav is an exceptional developer with a keen eye for detail. His ability to solve complex problems quickly made our project a success. I would gladly work with him again on future projects.",
   },
   {
     id: 2,
@@ -32,7 +32,7 @@ const testimonials: Testimonial[] = [
     company: "InnovateSoft",
     image: "/client2.jpg?height=100&width=100",
     quote:
-      "Working with Maneesh was a pleasure. His technical skills are impressive, and he consistently delivered high-quality code ahead of schedule. His communication skills made collaboration seamless.",
+      "Working with Gaurav was a pleasure. His technical skills are impressive, and he consistently delivered high-quality code ahead of schedule. His communication skills made collaboration seamless.",
   },
   {
     id: 3,
@@ -41,7 +41,7 @@ const testimonials: Testimonial[] = [
     company: "DesignHub",
     image: "/client3.jpg?height=100&width=100",
     quote:
-      "Maneesh has a rare combination of technical expertise and design sensibility. He implemented my designs perfectly and even suggested improvements that enhanced the user experience.",
+      "Gaurav has a rare combination of technical expertise and design sensibility. He implemented my designs perfectly and even suggested improvements that enhanced the user experience.",
   },
   {
     id: 4,
@@ -50,7 +50,7 @@ const testimonials: Testimonial[] = [
     company: "StartupX",
     image: "/client4.jpg?height=100&width=100",
     quote:
-      "I was impressed by Maneesh's ability to quickly understand our complex codebase and make significant improvements. His C++ optimizations resulted in a 40% performance boost for our application.",
+      "I was impressed by Gaurav's ability to quickly understand our complex codebase and make significant improvements. His C++ optimizations resulted in a 40% performance boost for our application.",
   },
 ]
 

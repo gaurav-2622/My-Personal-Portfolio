@@ -45,7 +45,7 @@ export default function Contact() {
                   </div>
                   <div>
                     <h4 className="font-medium">Email</h4>
-                    <p className="text-muted-foreground">connect.to.maneeshmkp@gmail.com</p>
+                    <p className="text-muted-foreground">myselfgaurav2527@gmail.com</p>
                   </div>
                 </div>
 
@@ -55,7 +55,7 @@ export default function Contact() {
                   </div>
                   <div>
                     <h4 className="font-medium">Phone</h4>
-                    <p className="text-muted-foreground">+91 8077439938</p>
+                    <p className="text-muted-foreground">+91 9693085759</p>
                   </div>
                 </div>
 
