@@ -12,7 +12,7 @@ import Contact from "@/components/contact"
 import Footer from "@/components/footer"
 
 export const metadata: Metadata = {
-  title: "Portfolio | Maneesh Kumar",
+  title: "Portfolio | Gaurav ",
   description: "Professional portfolio showcasing my work and skills",
 }
 
